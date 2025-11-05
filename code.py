@@ -13,3 +13,6 @@ x - y
 
 #I do want a new variable, for real this time
 z = x^2
+
+#I have a great idea for anaylsis!
+y*z - x
